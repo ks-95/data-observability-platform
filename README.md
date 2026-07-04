@@ -70,7 +70,7 @@ README.md
 ## Clone Repository
 
 ```bash
-git clone <your_repo_url>
+git clone <https://github.com/ks-95/data-observability-platform/tree/main>
 cd data-observability-platform
 ```
 
